@@ -95,4 +95,4 @@ Copyright (c) 2023 Global Byte - Fábio M. Blanco
 
 ## License
 
-Released under [MIT Lisense](https://github.com/fabio-blanco/spring-batch-fixed-width-flat-file-sample/blob/main/LICENSE).
+Released under [MIT Lisense](https://github.com/fabio-blanco/spring-batch-fixed-width-flat-file-sample/blob/main/LISENCE).
